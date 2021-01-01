@@ -1,6 +1,6 @@
-# template_flutter_project
+# flutter_tdd_architecture_course
 
-A new Flutter application.
+https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/
 
 ## Getting Started
 
