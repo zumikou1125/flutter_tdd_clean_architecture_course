@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:template_flutter_project/pages/home_page.dart';
+import 'package:flutter_tdd_architecture_course/pages/home_page.dart';
 
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Template',
+      title: 'Flutter TDD Architecture Course',
       theme: ThemeData.dark().copyWith(
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const HomePage(title: 'Flutter Template'),
+      home: const HomePage(title: 'TDD Architecture Course'),
     );
   }
 }
