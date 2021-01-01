@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tdd_architecture_course/pages/home_page.dart';
+import 'package:flutter_tdd_architecture_course/home_page.dart';
 
 class App extends StatelessWidget {
   @override
